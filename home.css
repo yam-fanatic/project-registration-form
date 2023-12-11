@@ -1,0 +1,42 @@
+* {
+  margin: 10px;
+  padding: 3px;
+
+}
+
+body {
+
+  background: linear-gradient(to right, #a86a6a, #f8ebeb);
+}
+
+h1 {
+  padding: 0px;
+  margin: 0px;
+  font-size: 22px;
+}
+
+input#firstname {
+  width: 83px;
+}
+
+input#lastname {
+  width: 83px;
+}
+
+hr {
+  margin: 4px;
+  padding: 0px;
+}
+
+.entire {
+  /* margin: 23px;
+            padding: 23px; */
+  width: 28%;
+  height: 84vh;
+  border: 2px solid black;
+  border-radius: 8px;
+  box-shadow: 2px 1px 5px 5px;
+
+
+
+}
